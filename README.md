@@ -1,2 +1,3 @@
 # PS
-power sheel repository
+power shell repository
+
